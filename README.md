@@ -1,34 +1,35 @@
-# Hi there 👋, I'm Neha Paswan
+# 🛒 Amazon Data Analysis using Python
 
-🎓 BCA Student | Aspiring AI & Machine Learning Engineer
+## 📌 Project Overview
+This project analyzes an Amazon product dataset using Python. The main objective is to explore, clean, and visualize the data to discover useful insights about products, prices, customer reviews, shipments, and order dates.
 
-💻 Passionate about building software and exploring Artificial Intelligence.
+## 🚀 Features
+- 📂 Data Loading with Pandas
+- 🧹 Data Cleaning & Missing Value Analysis
+- 📊 Exploratory Data Analysis (EDA)
+- 📈 Data Visualization using Matplotlib & Seaborn
+- 📦 Product Category Analysis
+- 💰 Price Distribution Analysis
+- ⭐ Customer Review Analysis
+- 🔥 Correlation Heatmap
+- 📉 Outlier Detection using Box Plot
 
-### 🚀 Skills
+## 🛠️ Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Google Colab
 
-* C Programming
-* HTML5, CSS3
-* JavaScript
-* Data Structures & Algorithms (DSA)
-* Git & GitHub
+## 📊 Visualizations
+- Bar Charts
+- Pie Charts
+- Scatter Plot
+- Box Plot
+- Correlation Heatmap
 
-### 🌱 Currently Learning
+## 🎯 Project Goal
+The goal of this project is to gain meaningful insights from Amazon product data through data analysis and visualization techniques.
 
-* Python
-* Machine Learning
-* Artificial Intelligence
-* Data Science
-
-### 🎯 Career Goal
-
-To become an AI Engineer by building real-world projects, contributing to open-source, and continuously improving my problem-solving skills.
-
-### 📌 Interests
-
-* Artificial Intelligence
-* Machine Learning
-* Web Development
-* Problem Solving
-* Open Source
-
-⭐ *"Learning every day, building every week, and growing one project at a time."*
+## 📌 Learning Outcome
+This project helped me improve my skills in Python, Pandas, data cleaning, exploratory data analysis (EDA), and data visualization using Matplotlib and Seaborn.
